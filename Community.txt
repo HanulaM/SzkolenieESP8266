@@ -1,0 +1,6 @@
+https://www.esp8266.com/
+
+
+
+
+https://github.com/sborsay/Arduino_Wireless/blob/master/ESP8266%2812-E%29_DHT11
